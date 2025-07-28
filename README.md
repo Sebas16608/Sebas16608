@@ -1,1 +1,1 @@
-Hola soy Sebas, un pequeño desarrollador web que le encanta hacer cosas de todo tipo jajaja, ahorita aprendi a desarrollar con django para crear un foro al estilo 4chan para que la gente de latinoamerica o de habla hispana puedan discutir temas de sus gustos, queria hacerlo para la gente del colegio donde estudio actualmente pero me di cuenta que es mejor hacerlo para todo el mundo. Gracias por leer :D
+Hola soy Sebas, un pequeño desarrollador web (backend) y no me gusta el front end jaja.
