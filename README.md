@@ -20,7 +20,7 @@ Specialized in **RESTful APIs**, **database architecture**, and **scalable backe
 ## 💻 Tech Stack
 ```python
 backend = ["Python", "Django", "Django REST Framework", "Flask"]
-databases = ["PostgreSQL", "SQLite", "Redis"]
+databases = ["PostgreSQL", "SQLite"]
 tools = ["Git", "Docker", "Linux", "Postman"]
 other = ["C++", "C#", "REST APIs", "API Design"]
 ```
@@ -71,7 +71,7 @@ other = ["C++", "C#", "REST APIs", "API Design"]
 - Docker deployment on Linux
 
 **Stack:** Django, DRF, PostgreSQL, Docker  
-**Status:** 🚀 In production
+**Status:** 🔨 In development
 
 ---
 
@@ -130,7 +130,7 @@ my_approach = {
 
 - 📧 **Email:** asebasrr444@gmail.com
 - 💼 **LinkedIn:** [Sebastián Rodas](https://www.linkedin.com/in/sebastián-rodas-65564b303)
-- 📍 **Location:** Guatemala City, Guatemala
+- 📍 **Location:** Zaragoza, Chimaltenango, Guatemala
 
 ---
 
