@@ -1,71 +1,148 @@
-# English Version
-# 👋 Hello, I’m Angel Sebastián Rodas Rodriguez (Sebas)
+# 👋 Hi, I'm Sebastián Rodas (Sebas)
 
-## 🔹 About Me
-I’m a **Junior Backend Developer** passionate about building **efficient APIs and web applications**.  
-I have experience with **Django (including Django REST Framework)** for full web applications and **Flask** for RESTful APIs, working with databases via ORM and version control using **Git**.  
+**Backend Developer** | Python Specialist | Django & Flask APIs | 🇬🇹 Guatemala
 
-I can **read English documentation fluently and hold conversations**, which allows me to quickly learn new technologies and follow international standards.  
-I love creating personal projects to continuously improve and apply best coding practices.
+Self-taught backend developer with **9 months** building production systems.
+Specialized in **RESTful APIs**, **database architecture**, and **scalable backend solutions**.
 
 ---
 
-## 💻 Skills
-- **Programming Languages:** Python, C# (basic), C++ (basic)  
-- **Frameworks & Libraries:** Django (APIs + Web, DRF), Flask (APIs)  
-- **Databases:** PostgreSQL, SQLite, Django ORM, Basic SQL  
-- **Version Control:** Git / GitHub  
-- **Others:** RESTful APIs, data validation, basic testing  
-- **English:** Fluent reading, intermediate conversation
+## 🚀 What I Build
+
+- 🔹 **RESTful APIs** with Django REST Framework
+- 🔹 **Database Architecture** with PostgreSQL
+- 🔹 **Authentication Systems** (JWT, OAuth)
+- 🔹 **File Management** systems
+- 🔹 **Business Logic** for complex applications
 
 ---
 
-## 📂 Featured Projects
-1. **SaaS Max3D Creations:** Platform for 3D printing order management and invoicing, APIs in **Django REST Framework and Flask**, online 3D viewer for clients (in development).  
-2. **Flask Task API:** Full CRUD, JWT authentication, documented in README.  
-3. **4chan-style Forum in Django:** Full web application with templates, users, roles, and posts, using **DRF for internal APIs**.  
-4. **Mini-blog in Django:** Error handling, unit tests, and clear endpoints, with **DRF for APIs**.
+## 💻 Tech Stack
+```python
+backend = ["Python", "Django", "Django REST Framework", "Flask"]
+databases = ["PostgreSQL", "SQLite", "Redis"]
+tools = ["Git", "Docker", "Linux", "Postman"]
+other = ["C++", "C#", "REST APIs", "API Design"]
+```
 
 ---
 
-## 📫 Contact
-- ✉️ asebasrr444@gmail.com  
-- [GitHub](https://github.com/Sebas16608)  
-- [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-rodas-65564b303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🔥 Featured Projects
 
+### 🏦 Banking System API
+**Complete banking platform backend**
 
+- RESTful API for account management and transactions
+- Secure authentication with JWT
+- Complex business validations (transfers, balances, limits)
+- PostgreSQL with optimized queries and indexes
+- Transaction management and rollbacks
+- Production-ready architecture
 
-# Versión en Español
-# 👋 Hola, soy Angel Sebastián Rodas Rodriguez (Sebas)
-
-## 🔹 Sobre mí
-Soy un desarrollador **backend junior** apasionado por construir **APIs y aplicaciones web eficientes**.  
-Tengo experiencia con **Django (incluyendo Django REST Framework)** para aplicaciones completas y **Flask** para APIs RESTful, manejando bases de datos con ORM y control de versiones con **Git**.  
-
-Puedo **leer documentación en inglés con fluidez y mantener conversaciones**, lo que me permite aprender rápido nuevas tecnologías y seguir estándares internacionales.  
-Me encanta desarrollar proyectos propios para mejorar continuamente y aplicar buenas prácticas en el código.
+**Stack:** Django, DRF, PostgreSQL  
+**Highlights:** Security, complex validations, scalability
 
 ---
 
-## 💻 Habilidades
-- **Lenguajes:** Python, C# (básico), C++ (básico)  
-- **Frameworks / Librerías:** Django (APIs + Web, DRF), Flask (APIs)  
-- **Bases de datos:** PostgreSQL, SQLite, Django ORM, SQL básico  
-- **Control de versiones:** Git / GitHub  
-- **Otros:** RESTful APIs, validación de datos, testing básico  
-- **Inglés:** lectura fluida, conversación intermedia
+### 💬 FreeChan - Imageboard Backend API
+**REST API for 4chan-style forum platform**
+
+- Multi-board system (boards → threads → replies)
+- File upload and management (images, media)
+- User authentication and role-based permissions
+- Moderation system (delete, ban, reports)
+- Complex database relationships
+- Pagination, filtering, and search
+- PostgreSQL with optimized queries
+
+**Stack:** Django, DRF, PostgreSQL  
+**Highlights:** Complex architecture, file handling, scalability
 
 ---
 
-## 📂 Proyectos destacados
-1. **SaaS Max3D Creations:** Plataforma para gestión de pedidos y facturación en impresión 3D, APIs en **Django REST Framework y Flask**, visualizador 3D online para clientes (en desarrollo).  
-2. **API de tareas en Flask:** CRUD completo, autenticación con JWT, documentación en README.  
-3. **Foro estilo 4chan en Django:** Aplicación web completa con templates, usuarios, roles y posts, usando **DRF para APIs internas**.  
-4. **Mini-blog en Django:** Manejo de errores, pruebas unitarias y endpoints claros, con **DRF para APIs**.
+### 🛒 Max3D Creations - E-commerce Backend
+**Complete backend for my 3D printing business**
+
+- E-commerce API with shopping cart
+- Inventory management system
+- Order processing and invoicing
+- Payment integration
+- Admin dashboard API
+- Docker deployment on Linux
+
+**Stack:** Django, DRF, PostgreSQL, Docker  
+**Status:** 🚀 In production
 
 ---
 
-## 📫 Contacto
-- ✉️ asebasrr444@gmail.com  
-- [GitHub](https://github.com/Sebas16608)  
-- [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-rodas-65564b303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 📦 Inventory Management System
+**REST API for stock control**
+
+- CRUD operations for inventory items
+- Stock tracking and alerts
+- Reporting and analytics endpoints
+- Integration with external systems
+- API documentation with Swagger/Postman
+
+**Stack:** Django REST Framework, PostgreSQL  
+**Status:** 🔨 In development
+
+---
+
+## 📊 What Makes My Projects Stand Out
+```python
+my_approach = {
+    "architecture": "Scalable and maintainable",
+    "database": "Optimized queries and proper indexing",
+    "security": "JWT authentication, input validation",
+    "documentation": "Clear API docs and READMEs",
+    "code_quality": "Clean, readable, PEP8 compliant",
+}
+```
+
+---
+
+## 💼 Open to Work
+
+🔍 Looking for:
+- **Backend Developer** roles (remote)
+- **Python/Django** projects
+- **API development** contracts
+- **Freelance** opportunities
+
+✅ I can help you with:
+- Building RESTful APIs from scratch
+- Database design and optimization
+- Backend architecture
+- API integration
+- Code review and refactoring
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 **Spanish:** Native
+- 🇺🇸 **English:** Fluent reading, intermediate conversation
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** asebasrr444@gmail.com
+- 💼 **LinkedIn:** [Sebastián Rodas](https://www.linkedin.com/in/sebastián-rodas-65564b303)
+- 📍 **Location:** Guatemala City, Guatemala
+
+---
+
+## 🎯 Currently Learning
+
+- 🐳 Docker & containerization
+- 🔧 Advanced PostgreSQL (performance tuning)
+- ☁️ Cloud deployment (AWS/GCP)
+- 🏗️ Microservices architecture
+
+---
+
+*"Building robust backends, one API at a time."* 🚀
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebas16608&show_icons=true&theme=radical)](https://github.com/Sebas16608)
