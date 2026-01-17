@@ -1,148 +1,136 @@
 # 👋 Hi, I'm Sebastián Rodas (Sebas)
 
-**Backend Developer** | Python Specialist | Django & Flask APIs | 🇬🇹 Guatemala
+**Backend Developer** | Python & TypeScript | APIs & Microservices | 🇬🇹 Guatemala
 
-Self-taught backend developer with **9 months** building production systems.
-Specialized in **RESTful APIs**, **database architecture**, and **scalable backend solutions**.
+Self-taught backend developer with **real-world experience building production-ready systems**.  
+Focused on **API design, backend architecture, and scalable systems**, with a strong interest in **microservices and performance-oriented backends**.
 
 ---
 
 ## 🚀 What I Build
 
-- 🔹 **RESTful APIs** with Django REST Framework
-- 🔹 **Database Architecture** with PostgreSQL
-- 🔹 **Authentication Systems** (JWT, OAuth)
-- 🔹 **File Management** systems
-- 🔹 **Business Logic** for complex applications
+- 🔹 **RESTful APIs** with Django REST Framework & Express
+- 🔹 **Backend architectures** for real business needs
+- 🔹 **Microservices** with Express + TypeScript
+- 🔹 **Authentication systems** (JWT, role-based access)
+- 🔹 **Inventory, billing, and business logic systems**
+- 🔹 **File handling & document generation**
 
 ---
 
 ## 💻 Tech Stack
-```python
-backend = ["Python", "Django", "Django REST Framework", "Flask"]
+
+```ts
+backend = ["Python", "Django", "Django REST Framework", "Flask", "Node.js", "Express", "TypeScript"]
 databases = ["PostgreSQL", "SQLite"]
+architecture = ["REST APIs", "Microservices", "API Design"]
 tools = ["Git", "Docker", "Linux", "Postman"]
-other = ["C++", "C#", "REST APIs", "API Design"]
+other = ["C++", "C#"]
 ```
+🔥 Featured Projects
+🏦 Banking System API
 
----
+Backend for a complete banking platform
 
-## 🔥 Featured Projects
+Account management and transactions
 
-### 🏦 Banking System API
-**Complete banking platform backend**
+Secure JWT-based authentication
 
-- RESTful API for account management and transactions
-- Secure authentication with JWT
-- Complex business validations (transfers, balances, limits)
-- PostgreSQL with optimized queries and indexes
-- Transaction management and rollbacks
-- Production-ready architecture
+Complex business rules (balances, limits, transfers)
 
-**Stack:** Django, DRF, PostgreSQL  
-**Highlights:** Security, complex validations, scalability
+PostgreSQL with optimized queries and indexing
 
----
+Transaction handling and rollbacks
 
-### 💬 FreeChan - Imageboard Backend API
-**REST API for 4chan-style forum platform**
+Clean and scalable architecture
 
-- Multi-board system (boards → threads → replies)
-- File upload and management (images, media)
-- User authentication and role-based permissions
-- Moderation system (delete, ban, reports)
-- Complex database relationships
-- Pagination, filtering, and search
-- PostgreSQL with optimized queries
+Stack: Django, DRF, PostgreSQL
+Focus: Security, data integrity, scalability
 
-**Stack:** Django, DRF, PostgreSQL  
-**Highlights:** Complex architecture, file handling, scalability
+💬 FreeChan — Imageboard Backend API
 
----
+REST API for a 4chan-style platform
 
-### 🛒 Max3D Creations - E-commerce Backend
-**Complete backend for my 3D printing business**
+Multi-board architecture (boards → threads → replies)
 
-- E-commerce API with shopping cart
-- Inventory management system
-- Order processing and invoicing
-- Payment integration
-- Admin dashboard API
-- Docker deployment on Linux
+File uploads and media management
 
-**Stack:** Django, DRF, PostgreSQL, Docker  
-**Status:** 🔨 In development
+User roles and moderation system
 
----
+Reports, bans, and content control
 
-### 📦 Inventory Management System
-**REST API for stock control**
+Complex relational database design
 
-- CRUD operations for inventory items
-- Stock tracking and alerts
-- Reporting and analytics endpoints
-- Integration with external systems
-- API documentation with Swagger/Postman
+Pagination, filtering, and search
 
-**Stack:** Django REST Framework, PostgreSQL  
-**Status:** 🔨 In development
+Stack: Django, DRF, PostgreSQL
+Focus: Architecture complexity, file handling, scalability
 
----
+🛒 Max3D Creations — E-commerce Backend
 
-## 📊 What Makes My Projects Stand Out
-```python
-my_approach = {
-    "architecture": "Scalable and maintainable",
-    "database": "Optimized queries and proper indexing",
-    "security": "JWT authentication, input validation",
-    "documentation": "Clear API docs and READMEs",
-    "code_quality": "Clean, readable, PEP8 compliant",
+Backend for my 3D printing business
+
+Inventory management system
+
+Shopping cart and order processing
+
+Invoicing and billing logic
+
+Admin dashboard API
+
+Dockerized deployment on Linux
+
+Stack: Django, DRF, PostgreSQL, Docker
+Status: 🔨 In development
+
+📦 Inventory Management System
+
+Scalable inventory backend system
+
+Modular and domain-oriented architecture
+
+Stock tracking and alerts
+
+PDF generation for invoices and reports
+
+Designed to support multiple business types
+
+Clear separation of concerns and permissions
+
+Stack: Django, DRF, PostgreSQL
+Status: 🚀 Actively evolving
+
+🧩 Microservices (Express + TypeScript)
+
+Modern backend services using Node.js
+
+Express-based microservices
+
+Type-safe APIs with TypeScript
+
+JWT authentication
+
+Clear service boundaries
+
+Designed for scalability and future orchestration
+
+Stack: Express, TypeScript, PostgreSQL
+Focus: Microservices, API boundaries, maintainability
+
+🧠 How I Approach Backend Development
+```bash
+backend_principles = {
+    "architecture": "Scalable, modular, and maintainable",
+    "databases": "Well-designed schemas and optimized queries",
+    "security": "JWT, permissions, and input validation",
+    "documentation": "Clear READMEs and API documentation",
+    "code_quality": "Clean, readable, and structured code",
 }
 ```
+📧 Email: asebasrr444@gmail.com
 
----
+💼 LinkedIn: Sebastián Rodas
 
-## 💼 Open to Work
+📍 Location: Guatemala
 
-🔍 Looking for:
-- **Backend Developer** roles (remote)
-- **Python/Django** projects
-- **API development** contracts
-- **Freelance** opportunities
-
-✅ I can help you with:
-- Building RESTful APIs from scratch
-- Database design and optimization
-- Backend architecture
-- API integration
-- Code review and refactoring
-
----
-
-## 🌍 Languages
-
-- 🇪🇸 **Spanish:** Native
-- 🇺🇸 **English:** Fluent reading, intermediate conversation
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** asebasrr444@gmail.com
-- 💼 **LinkedIn:** [Sebastián Rodas](https://www.linkedin.com/in/sebastián-rodas-65564b303)
-- 📍 **Location:** Zaragoza, Chimaltenango, Guatemala
-
----
-
-## 🎯 Currently Learning
-
-- 🐳 Docker & containerization
-- 🔧 Advanced PostgreSQL (performance tuning)
-- ☁️ Cloud deployment (AWS/GCP)
-- 🏗️ Microservices architecture
-
----
-
-*"Building robust backends, one API at a time."* 🚀
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebas16608&show_icons=true&theme=radical)](https://github.com/Sebas16608)
+"Building backend systems that scale, not just APIs that work." 🚀
