@@ -86,7 +86,6 @@ I use **Arch Linux** as my daily driver and enjoy working with Linux systems, se
 
 ## 📫 Contact
 
-* Portfolio: https://sebastian-portfolio-one.vercel.app/
 * CV: https://cv-angel-sebasti-n-rodas-rodriguez.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/sebastián-rodas-65564b303/
 
